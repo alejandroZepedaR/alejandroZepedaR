@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Alejandro Zepeda</h1>
 <h3 align="center">I'm a passionate Computer Science Student from Arizona</h3>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 📫 How to reach me **guerozepeda02@gmail.com**
 
